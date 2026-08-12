@@ -105,3 +105,36 @@ AI / Business Analytics Project
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
+
+## 🚀 Live Demo
+
+Try the deployed AI Resume Analyzer here:
+
+https://ai-resume-analyzer-15.streamlit.app/
+
+## 📂 Project Repository
+
+The complete source code and Jupyter Notebook are available in this repository.
+
+## 🛠️ Technologies Used
+
+- Python
+- NLP
+- TF-IDF
+- Cosine Similarity
+- Pandas
+- Scikit-learn
+- Streamlit
+- Matplotlib
+- python-docx
+
+## ✨ Key Features
+
+- Resume upload (TXT/DOCX)
+- AI-based skill extraction
+- Job-role matching
+- Top 5 job recommendations
+- NLP-based resume-job similarity
+- Final AI recommendation score
+- Skill gap analysis
+- Job recommendation visualization
